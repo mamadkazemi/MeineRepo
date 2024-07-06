@@ -43,7 +43,7 @@ snarkos account new
 
 screen -S prover
 
-# name
+#name
 ./run-prover.sh
 
 
