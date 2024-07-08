@@ -58,3 +58,6 @@ screen -S prover
 
 
 \\\\\\\\\\\\  Press Choose A Wallet
+
+
+./run-prover.sh
