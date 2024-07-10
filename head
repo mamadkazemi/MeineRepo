@@ -63,3 +63,7 @@ ufw allow ssh
 
 
 ./run-prover.sh
+
+
+cd snarkOS
+
