@@ -15,7 +15,7 @@ ufw allow http
 ufw allow 4133
 ufw allow 3033
 
-git clone https://github.com/AleoHQ/snarkOS.git --depth 1
+git clone https://github.com/AleoHQ/snarkOS.git --depth
 
 
 cd snarkOS
