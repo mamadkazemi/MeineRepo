@@ -67,3 +67,4 @@ ufw allow ssh
 
 cd snarkOS
 
+#$Home
