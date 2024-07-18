@@ -17,7 +17,6 @@ ufw allow 3033
 
 git clone https://github.com/AleoHQ/snarkOS.git --depth
 
-
 cd snarkOS
 
 ufw allow 3033
