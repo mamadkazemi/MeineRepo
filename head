@@ -25,8 +25,7 @@ ufw allow 3033
 ./build_ubuntu.sh
 
 
-cargo install --path
-
+cargo install --path//
 
 screen -S client
 
