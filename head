@@ -64,7 +64,7 @@ ufw allow ssh
 
 ./run-prover.sh
 
-
+\\\\ Press CTRL+A+D
 cd snarkOS
 
 
