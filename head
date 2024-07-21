@@ -51,7 +51,7 @@ screen -S prover
 
 ufw allow ssh 
 
-#$Home
+
 \\\\ Press CTRL+A+D
 
 
