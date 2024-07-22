@@ -49,7 +49,6 @@ screen -S prover
 
 \\\\\\Enter your private Key
 
-ufw allow ssh 
 
 
 \\\\ Press CTRL+A+D
