@@ -56,7 +56,7 @@ screen -S prover
 
 #go to site https://www.aleo.network/transactions
 
-snarkos account new
+snarkos account NEW
 
 \\\\\\\\\\\\  Press Choose A Wallet
 
