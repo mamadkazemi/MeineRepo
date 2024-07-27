@@ -54,6 +54,8 @@ screen -S prover
 \\\\ Press CTRL+A+D
 
 
+source $HOME/.cargo/env
+
 #go to site https://www.aleo.network/transactions
 
 snarkos account NEW
