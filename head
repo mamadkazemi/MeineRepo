@@ -27,7 +27,7 @@ ufw allow 3033
 
 cargo install --path//
 
-screen -S client
+screen -N client
 
 
 ./run-client.sh
