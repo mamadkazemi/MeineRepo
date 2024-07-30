@@ -62,6 +62,7 @@ snarkos account NEW
 
 \\\\\\\\\\\\  Press Choose A Wallet
 
+./run-client.sh
 
 ./run-prover.sh
 
