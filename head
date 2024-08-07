@@ -31,6 +31,7 @@ screen -N client
 
 ./run-client.sh
 
+float(input("side 10=")
 
 snarkos account new
 
