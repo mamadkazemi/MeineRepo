@@ -27,7 +27,7 @@ ufw allow 3034
 cargo install --path//
 
 screen -N client
-
+git clone https://github.com/AleoHQ/snarkOS.git --depth
 
 ./run-client.sh
 
