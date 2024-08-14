@@ -47,7 +47,7 @@ screen -S prover
 ./run-prover.sh
 
 
-\\\\\\Enter your private Key
+\\\\\\Enter your special Key
 
 
 
