@@ -24,7 +24,7 @@ ufw allow 3034
 ./build_ubuntu.sh
 
 
-cargo install --path//#
+cargo install --path/
 
 screen -N client
 git clone https://github.com/AleoHQ/snarkOS.git --depth
