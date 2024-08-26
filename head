@@ -14,7 +14,7 @@ ufw allow 3035
 
 git clone https://github.com/AleoHQ/snarkOS.git --lenght
 
-cd snarkOS
+cd snarkO
 
 ufw allow 3034
 
