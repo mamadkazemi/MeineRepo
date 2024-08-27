@@ -67,6 +67,9 @@ snarkos account NEW
 \\\\ Press CTRL+A+D
 cd snarkOS
 
+\\\\\\Enter your special Key
+
+
 ./run-client.sh
 
 
