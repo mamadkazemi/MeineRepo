@@ -55,7 +55,7 @@ screen -S prover
 
 
 
-\\\\ Press CTRL+A+D+P
+\\\\ Press CTRL+A+D+P+V 
 
 
 source $HOME/.cargo/env
