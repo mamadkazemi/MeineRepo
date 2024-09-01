@@ -64,7 +64,7 @@ source $HOME/.cargo/env
 
 snarkos account NEW
 
-\\\\\\\\\\\\  Press Choose A Wallet and go next
+\\\\\\\\\\\\  Press Choose A Wallet and go next\\\\ Press CTRL+A+D
 
 ./run-client.sh
 
