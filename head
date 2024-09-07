@@ -43,7 +43,7 @@ Private Key  APrivateKey1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 screen -S prover
 
 #name
-./run-prover.sh
+run-prover.sh
 
 
 \\\\\\Enter your special Key
