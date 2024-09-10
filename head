@@ -50,7 +50,6 @@ run-prover.sh
 
 \\\\ Press CTRL+A+D+P+V 
 
-
 source $HOME/.cargo/env
 
 #go to site https://www.aleo.network/transactions
