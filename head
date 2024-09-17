@@ -12,7 +12,6 @@ ufw allow http
 ufw allow 4835
 ufw allow 3035
 //
-'
 git clone https://github.com/AleoHQ/snarkOS.git --lenght
 
 cd snarkO
